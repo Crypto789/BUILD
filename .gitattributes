@@ -1,0 +1,2 @@
+New[[:space:]]folder[[:space:]](10).data filter=lfs diff=lfs merge=lfs -text
+.data filter=lfs diff=lfs merge=lfs -text
